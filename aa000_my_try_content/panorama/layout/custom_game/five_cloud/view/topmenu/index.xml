@@ -1,0 +1,14 @@
+<root>
+    <scripts>
+        <include src="file://{resources}/layout/custom_game/five_cloud/view/topmenu/index.js" />
+    </scripts>
+    <styles>
+        <include src="file://{resources}/layout/custom_game/five_cloud/view/topmenu/index.css" />
+    </styles>
+    <Panel class="fc-topmenu minimized">
+        <!-- 为了编译图片，编译完可删除 -->
+        <Image src="file://{resources}/layout/custom_game/five_cloud/images/toolCommon.png" />
+
+
+    </Panel>
+</root>
